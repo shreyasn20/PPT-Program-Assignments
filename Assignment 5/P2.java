@@ -1,4 +1,4 @@
-class Problem2 {
+class P2 {
     public static int arrangeCoins(int n) {
         return (int) (Math.sqrt(2 * (long) n + 0.25) - 0.5);
     }
