@@ -1,4 +1,4 @@
-class Problem4 {
+class P4 {
     public static String reverseWords(String s) {
         StringBuilder sb = new StringBuilder();
         String[] words = s.split(" ");
